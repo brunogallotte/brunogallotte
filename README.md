@@ -11,7 +11,7 @@ Considero-me um profissional com perfil voltado para resolução de problemas e 
 ### Tecnologias que uso no meu dia
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 <div align="center">
