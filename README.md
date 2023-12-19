@@ -12,7 +12,7 @@ Considero-me um profissional com perfil voltado para resolução de problemas e 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 <div align="center">
-  ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogallotte&show_icons=true&theme=radical)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogallotte&show_icons=true&theme=radical)
 </div>
 
 <hr \>
