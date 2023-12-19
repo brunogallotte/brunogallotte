@@ -2,8 +2,6 @@
 
 ### Olá! Eu sou Bruno Gallotte 👋
 
-[![Linkedin Badge]([https://img.shields.io/badge/-bruno%20gallottea-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunogallotte/)](https://www.linkedin.com/in/brunogallotte/](https://www.linkedin.com/in/brunogallotte/))
-
 Estou muito interessado por me aprofundar no Desenvolvimento Front-end, e a cada dia busco me aperfeiçoar mais nessa área. Atualmente estou participando do bootcamp de especialização Igntite, da RocketSeat, focando na trilha de React.js.
 
 Considero-me um profissional com perfil voltado para resolução de problemas e pensamento analítico. Tenho a capacidade de automotivação, a jornada pela excelência é minha constante prioridade; mantendo a calma e prosperando a constância, enquanto recompenso o processo.
