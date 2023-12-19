@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou Bruno Gallotte 👋
 
-[![Linkedin Badge]([https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunogallotte/)](https://www.linkedin.com/in/brunogallotte/](https://www.linkedin.com/in/brunogallotte/))
+[![Linkedin Badge]([https://img.shields.io/badge/-bruno%20gallottea-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunogallotte/)](https://www.linkedin.com/in/brunogallotte/](https://www.linkedin.com/in/brunogallotte/))
 
 Estou muito interessado por me aprofundar no Desenvolvimento Front-end, e a cada dia busco me aperfeiçoar mais nessa área. Atualmente estou participando do bootcamp de especialização Igntite, da RocketSeat, focando na trilha de React.js.
 
