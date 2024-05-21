@@ -4,9 +4,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brunogallotte)
 
-Estou me aprofundando no Desenvolvimento Front-end, e a cada dia busco me aperfeiçoar mais nessa área. Atualmente estou participando do bootcamp de especialização Igntite, da RocketSeat, focando na trilha de React.js.
+Meu primeiro curso na área de tecnologia foi o de Desenvolvimento Full Stack Python pela Escola Britânica de Artes Criativas & Tecnologia. Tive o orgulho de concluir a jornada em 2023 me classificando entre os 0.05% alunos mais produtivos.
 
-Considero-me um profissional com perfil voltado para resolução de problemas e pensamento analítico. Tenho a capacidade de automotivação, a jornada pela excelência é minha constante prioridade; mantendo a calma e prosperando a constância, enquanto recompenso o processo.
+Em seguida optei por me aprofundar mais no desenvolvimento Front-End, praticando com projetos pessoais, e concluindo uma especialização em React.js na rocketseat, em que pude entender de forma mais detalhada o funcionamento da biblioteca, inclusive os processos por debaixo dos panos levando em consideração performance e outros tópicos mais avançados.
+
+Nos dias de hoje estou atuando como desenvolvedor Front-End na VAROS, utilizando principalmente React com Next, Tailwind, Prisma e MySQL na construção e manutenção de interfaces complexas. 
+
+E sigo em paralelo aprimorando meus conhecimentos em Node.js, construindo o back-end de projetos pessoais utilizando o micro framework Fastify, princípios SOLID, padrões de repositório dentre outras estratégias.
 
 
 
